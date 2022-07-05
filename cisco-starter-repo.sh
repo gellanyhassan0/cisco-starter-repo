@@ -3,6 +3,6 @@ nvm install node
 node  -v
 npm install -g yarn
 yarn global add create-react-app
-npx create-react-app sextant
+#npx create-react-app sextant
 cd sextant
 npm start
