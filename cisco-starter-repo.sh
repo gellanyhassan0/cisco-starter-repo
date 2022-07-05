@@ -11,4 +11,5 @@ node  -v
 npm install -g yarn
 
 cd sextant
+npm install
 npm start
